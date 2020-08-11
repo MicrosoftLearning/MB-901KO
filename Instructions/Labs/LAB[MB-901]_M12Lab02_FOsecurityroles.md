@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: '랩 02: Dynamics 365 Finance and Operations 애플리케이션에서 보안 역할 살펴보기'
-    module: '모듈 03: Dynamics 365 보안 인식'
+    module: '모듈 12: Dynamics 365 보안 인식'
 ---
 
 # MB-901: Dynamics 365 기본사항
-## 모듈 3, 랩 2 - Dynamics 365 Finance and Operations 애플리케이션에서 보안 역할 살펴보기
+## 모듈 12, 랩 2 - Dynamics 365 Finance and Operations 애플리케이션에서 보안 역할 살펴보기
 
 ### 역할 제외
 

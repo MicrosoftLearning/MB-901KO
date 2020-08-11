@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: '랩 01: Dynamics 365 Supply Chain Management 살펴보기'
-    module: '모듈 11: Dynamics 365 Supply Chain Management 소개'
+    module: '모듈 08: Dynamics 365 Supply Chain Management 소개'
 ---
 
 # MB-901: Dynamics 365 기본사항 
-## 모듈 11, 랩 1 - Dynamics 365 Supply Chain Management 살펴보기
+## 모듈 8, 랩 1 - Dynamics 365 Supply Chain Management 살펴보기
 
 ### 제품 만들기
 

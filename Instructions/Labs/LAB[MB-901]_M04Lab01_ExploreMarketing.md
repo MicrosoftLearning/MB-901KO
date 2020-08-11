@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: '랩 01: Dynamics 365 Marketing 살펴보기'
-    module: '모듈 06: Dynamics 365 Marketing 소개'
+    module: '모듈 04: Dynamics 365 Marketing 소개'
 ---
 
 # MB-901: Dynamics 365 기본사항 
-## 모듈 6, 랩 1 - Dynamics 365 Marketing 
+## 모듈 4, 랩 1 - Dynamics 365 Marketing 
 
 **사전 요구 사항:** 이 랩의 단계를 수행하기 전에 다음 작업을 수행합니다: 
 1. **Marketing** > **파일**로 이동합니다.  

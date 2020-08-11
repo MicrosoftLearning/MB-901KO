@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: '랩 01: Dynamics 365 Sales 살펴보기'
-    module: '모듈 05: Dynamics 365 Sales 소개'
+    module: '모듈 03: Dynamics 365 Sales 소개'
 ---
 
 # MB-901: Dynamics 365 Sales
-## 모듈 5, 랩 1 – Dynamics 365 Sales 살펴보기
+## 모듈 3, 랩 1 – Dynamics 365 Sales 살펴보기
 
 **사전 요구 사항:** 이 랩의 단계를 수행하기 전에 다음 작업을 수행합니다:
 

@@ -1,11 +1,11 @@
 ﻿---
 lab:
     title: '랩 01: Dynamics 365 Finance 알아보기'
-    module: '모듈 10: Dynamics 365 Finance 소개'
+    module: '모듈 07: Dynamics 365 Finance 소개'
 ---
 
 # MB-901: Dynamics 365 기본사항 
-## 모듈 10, 랩 1 - Dynamics 365 Finance 탐색 
+## 모듈 7, 랩 1 - Dynamics 365 Finance 탐색 
 
 
 **필수 구성 요소**: 이 랩의 단계를 수행하기 전에
