@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 01: Dynamics 365 Sales 살펴보기'
     module: '모듈 03: Dynamics 365 Sales 소개'
