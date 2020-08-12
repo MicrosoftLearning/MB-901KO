@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 01: Dynamics 365 Finance 알아보기'
     module: '모듈 07: Dynamics 365 Finance 소개'

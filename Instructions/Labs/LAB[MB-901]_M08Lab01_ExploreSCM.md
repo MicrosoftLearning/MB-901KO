@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 01: Dynamics 365 Supply Chain Management 살펴보기'
     module: '모듈 08: Dynamics 365 Supply Chain Management 소개'
