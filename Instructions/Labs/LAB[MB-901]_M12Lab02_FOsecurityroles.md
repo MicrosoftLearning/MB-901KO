@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 02: Dynamics 365 Finance and Operations 애플리케이션에서 보안 역할 살펴보기'
     module: '모듈 12: Dynamics 365 보안 인식'
