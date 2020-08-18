@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '랩 01: Dynamics 365 모델 기반 애플리케이션의 보안 역할 살펴보기'
     module: '모듈 12: Dynamics 365 보안 인식'

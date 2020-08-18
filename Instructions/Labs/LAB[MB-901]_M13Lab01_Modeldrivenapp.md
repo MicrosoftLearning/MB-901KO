@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '랩 01: 처음부터 첫 번째 모델 기반 앱을 빌드합니다'
     module: '모듈 13: Dynamics 365 데이터 연결 및 분석'
@@ -7,7 +7,7 @@ lab:
 # MB-901: Dynamics 365 기본사항
 ## 모듈 13, 랩 1: 처음부터 첫 번째 모델 기반 앱 빌드
 
-**시나리오:** Power Apps 환경에서 사용할 수 있는 표준 엔터티 중 하나를 사용하여 모델 기반 앱 만들기를 단순화해야 합니다. 모델 기반 앱은 Power Apps 모바일 앱에서 실행되지 않습니다. 대신 Dynamics 365 모바일 앱을 사용하거나 휴대폰의 웹 브라우저를 사용하여 모바일 장치에서 모델 기반 앱을 실행합니다.
+**시나리오:** Power Apps 환경에서 사용할 수 있는 표준 엔터티 중 하나를 사용하여 모델 기반 앱 만들기를 단순화해야 합니다. 모델 기반 앱은 Power Apps 모바일 앱에서 실행되지 않습니다. 대신 Dynamics 365 모바일 앱을 사용하거나 휴대폰의 웹 브라우저를 사용하여 모바일 디바이스에서 모델 기반 앱을 실행합니다.
 
 Power Apps에 Windows Live ID로 로그인합니다. Power Apps 계정이 아직 없는 경우 https://signup.microsoft.com/Start?sku=powerapps_viral&ru=https%3a%2f%2fweb.powerapps.com%2flogin%2fportal에서 무료 시작 링크를 선택합니다.
 
