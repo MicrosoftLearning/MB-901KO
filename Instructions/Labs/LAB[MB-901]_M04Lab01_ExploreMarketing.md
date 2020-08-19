@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 01: Dynamics 365 Marketing 살펴보기'
     module: '모듈 04: Dynamics 365 Marketing 소개'
