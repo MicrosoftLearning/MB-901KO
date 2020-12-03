@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 01: Dynamics 365 Customer Service 살펴보기'
     module: '모듈 05: Dynamics 365 Customer Service 소개'
